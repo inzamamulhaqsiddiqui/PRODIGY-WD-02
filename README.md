@@ -36,7 +36,7 @@ Clone the Repository:
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/PRODIGY_WD_02.git
+git clone https://github.com/inzamamulhaqsiddiqui/PRODIGY_WD_02.git
 Navigate to the Project Directory:
 
 bash
