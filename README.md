@@ -31,18 +31,6 @@ Responsive Design: Ensures usability across various devices and screen sizes.
 Modern UI: Gradient backgrounds and interactive buttons enhance user engagement.
 
 📂 Installation and Usage
-Clone the Repository:
-
-bash
-Copy
-Edit
-git clone https://github.com/inzamamulhaqsiddiqui/PRODIGY_WD_02.git
-Navigate to the Project Directory:
-
-bash
-Copy
-Edit
-cd PRODIGY_WD_02
 Open index.html in Your Browser:
 
 You can open the file directly or use a live server extension if you're using VS Code.
